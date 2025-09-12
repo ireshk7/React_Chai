@@ -4,13 +4,12 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Card from './components/Card'
 function App() {
-  let myObj = {
-    username:"Iresh",
-    age:21
-  }
+  // let myObj = {
+  //   username:"Iresh",
+  //   age:21
+  // }
 
-  let myArr =[1,2,3];
-
+  // let myArr =[1,2,3];
 
 
   return (
